@@ -1,0 +1,64 @@
+.header {
+    background: #fff;
+}
+
+.header__inner {
+    padding: 16px 32px;
+}
+
+.header__utilities {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.header__logo h1 {
+    margin: 0;
+}
+
+.header-nav {
+    display: flex;
+}
+
+.header-nav__item {
+    margin-left: 32px;
+}
+
+.header-nav__link {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+.header-nav__button {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    border: none;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+main {
+    background: #eee;
+}
+
+.footer {
+    background: #fff;
+}
+
+.footer__inner {
+    text-align: center;
+    margin: 3px;
+    padding: 16px;
+}
+
+.footer__item {
+    font-size: 14px;
+    font-weight: normal;
+}

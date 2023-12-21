@@ -1,0 +1,19 @@
+.attendance-form__content {
+    width: 90%;
+    margin: 0 auto;
+    padding: 24px;
+}
+
+.attendance-form__heading {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.attendance-form__heading h2 {
+    margin: 0;
+}
+
+.attendance-table__row {
+    display: flex;
+}
